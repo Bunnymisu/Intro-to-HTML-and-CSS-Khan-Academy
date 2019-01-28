@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        body {
+            background-color: rgb(194, 255, 191);
+        }
+        h2 {
+            color: rgb(22, 77, 0);
+            background-color: rgb(144, 255, 122);
+        }
+        h3 {
+            background-color: rgb(144, 255, 122);
+            
+        }
+        #soundgarden {
+            color: rgb(235, 63, 0);
+        }
+        .verse-a {
+        color: rgb(107,0,0);
+        }
+        .verse-b {
+            color: rgb(0,0,107);
+        }
+        .chorus {
+            color: rgb(54,0,54);
+        }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Seattle</h1>
+    
+        <h2>Basic facts</h2>
+        <ul>
+            <li>The largest city in the Pacific Northwest.</li>
+            <li>The home of <strong>Starbucks</strong>, <strong>Microsoft</strong>, and <strong><em>freaking Nirvana</em></strong>.</li>
+            <li>Pretty cool.</li>
+        </ul>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Space_Needle002.jpg/280px-Space_Needle002.jpg" alt = "Seattle, Washington" width = "350">
+        <h2>Top five Seattle attractions</h2>
+        <ol>
+            <li><h3>The Space Needle</h3>
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Seattle_Space_Needle_Victor_Grigas.jpg/1024px-Seattle_Space_Needle_Victor_Grigas.jpg" alt = "the space needle" width = "250">
+                <p>Pretty tall and stuff.</p>
+            </li>
+             <li><h3>The Pacific Science Center</h3>
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pacific_Science_Center_at_night_02.jpg/640px-Pacific_Science_Center_at_night_02.jpg" alt = "the pacific science center" width = "250">
+                <p>Great for kids to learn about science and centers.</p>
+            </li>
+            <li><h3>Pike Place Market</h3>
+                <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/PikePlaceMarket.jpg/640px-PikePlaceMarket.jpg" alt = "pike place market" width = "250">
+                <p>They sell many things, but no pikes.</p>
+            </li>
+            <li><h3>Chihuly Garden and Glass</h3>
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Glass.sculpture.kewgardens.london.arp.jpg/716px-Glass.sculpture.kewgardens.london.arp.jpg" alt = "chihuly garden and glass" width = "250">
+                <p>These glass sculptures will blow your mind.</p>
+            </li>
+            <li><h3>The Museum of Pop Culture</h3>
+                <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/EMPPano11.jpg/1280px-EMPPano11.jpg" alt = "the museum of pop culture" width = "250">
+                <p>Oh, man, this is so cool -- they've got Daleks and a guitar tornado and a recoding studio and stuff.</p>
+            </li>
+        </ol>
+        <h2 id="soundgarden">Soundgarden</h2>
+        <p>The greatest band of the grunge era is also from Seattle. Below, you will find the lyrics to their most beautiful and awesome song. RIP CHRIS.</p>
+        <h3>Like Suicide</h3>
+        <p class="verse-a">Heard it from another room<br>
+        Eyes were waking up just to fall asleep<br>
+        Love's like suicide<br>
+        Dazed out in a garden bed<br>
+        With a broken neck lays my broken gift<br>
+        Just like suicide</p>
+        <p class="verse-b">And my last ditch<br>
+        Was my last brick<br>
+        Lent to finish her<br>
+        Finish her</p>
+        <p class="chorus">She lived like a murder<br>
+        How she'd fly so sweetly<br>
+        She lived like a murder<br>
+        But she died<br>
+        Just like suicide</p>
+        <p class="verse-a">Bit down on the bullet now<br>
+        I had a taste so sour<br>
+        I had to think of something sweet<br>
+        Love's like suicide<br>
+        Safe outside my gilded cage<br>
+        With an ounce of pain<br>
+        I wield a ton of rage<br>
+        Just like suicide</p>
+        <p class="verse-b">With eyes of blood<br>
+        And bitter blue<br>
+        How I feel for you<br>
+        I feel for you</p>
+        <p class="chorus">She lived like a murder<br>
+        How she'd fly so sweetly<br>
+        She lived like a murder<br>
+        But she died<br>
+        Just like suicide</p>
+    </body>
+</html>
