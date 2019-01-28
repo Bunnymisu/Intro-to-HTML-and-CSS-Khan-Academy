@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            body {
+                background-color: rgb(255, 229, 239);
+            }
+            h1 {
+                position: relative;
+                text-align: center;
+                font-size: 3em;
+                color: purple;
+                font-family: fantasy;
+                border-style: inset;
+                border-width: 10px;
+                border-color: purple;
+                background-color: white;
+                margin-left: 60px;
+                margin-right: 60px;
+                margin-bottom: 10px;
+                z-index: 2;
+            }
+            h2 {
+                margin-left: 110px;
+                margin-right: 110px;
+                text-align: center;
+                font-size: 1.4em;
+                font-family: cursive;
+                color: purple;
+                border-style: double;
+                border-width: 5px;
+                border-color: white;
+                padding: 5px;
+                
+            }
+            #info {
+                float:left;
+                width: 50%;
+                text-align: center;
+                font-weight: bold;
+                border-style: solid;
+                border-width: 2px;
+                border-color: white;
+            }
+            #time {
+                font-family: sans-serif;
+                font-style: italic;
+                font-size: 0.8em;
+            }
+            #guests {
+                float: right;
+                width: 40%;
+                height: 125px;
+                overflow: auto;
+                text-align: center;
+                background-color: rgb(255, 240, 255);
+                margin-right: 25px;
+            }
+            #flower1 {
+                position: absolute;
+                left: 0;
+                top: 0;
+                z-index: 1;
+            }
+            #flower2 {
+                position: absolute;
+                right: 0;
+                top: 0;
+                z-index: 1;
+            }
+            
+        </style>
+    </head>
+    <body>
+        
+        <img id="flower1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bloemstukken_Compositions_Florales_floral_arrangements_gestecke_Creaflor_Brussels_26.JPG/1920px-Bloemstukken_Compositions_Florales_floral_arrangements_gestecke_Creaflor_Brussels_26.JPG" width = "20%">
+        <h1>You're invited!</h1>
+        <img id="flower2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bloemstukken_Compositions_Florales_floral_arrangements_gestecke_Creaflor_Brussels_26.JPG/1920px-Bloemstukken_Compositions_Florales_floral_arrangements_gestecke_Creaflor_Brussels_26.JPG" width = "20%">
+        <h2>The Wedding of <span id="peter">Peter Parker</span> and <span id="mj">Mary Jane Watson</span></h2>
+        
+        <div id="info"><p>Top of the Empire State Building<br>
+            New York, NY 10118</p>
+            <p id="time">9/1/2018<br>
+            4 pm until a supervillain attacks
+        </p></div>
+        <div id="guests"><h3>Guest List</h3>
+        <ul>
+            <li>May Parker</li>
+            <li>J. Jonah Jameson</li>
+            <li>Joe "Robbie" Robertson</li>
+            <li>Felicia Hardy</li>
+            <li>Liz Osborne</li>
+            <li>Johnny Storm</li>
+            <li>Susan Storm</li>
+            <li>Reed Richards</li>
+            <li>Ben Grimm</li>
+            <li>Matt Murdock</li>
+        </ul>
+        </div>
+    </body>
+</html>
