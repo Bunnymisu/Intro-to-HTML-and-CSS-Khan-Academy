@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+      
+        <h1>My Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a>Recipe #1</a></li>
+        </ol>
+        
+        <h2>Recipe #1</h2>
+        <img src="https://www.kasandbox.org/programming-images/food/fruits.png"width="200">
+        <ul>
+            <li>Time:1hr. </li>
+            <li>Servings:24</li>
+        </ul>
+        
+       
+       
+             <ol>                                                                         <strong>Ingredients</strong><br>                          
+            <li>sugar</li>        
+            <li>flour</li>                     
+            <li>cocoa powder</li>
+            <li>baking powder</li>       
+            <li>baking soda</li>   
+            <li>salt</li>    
+            <li>2 eggs</li>    
+            <li>milk</li>
+            <li>veg. oil</li>
+            <li>vanilla extract</li>    
+            <li>boiling water</li>
+            </ol>
+        
+            <tbody>
+            </tbody>
+      <img src="" >
+        
+        <p><strong>Step 1:Preheat oven</strong> 
+</p>       <strong>Step 2:Get </strong>
+                           
+    <p><em>Source: <a href="http://allrecipes.com/recipe/17981/one-bowl-chocolate-cake-iii/">Visit us </a></em></p>
+    
+    </body>
+</html>
