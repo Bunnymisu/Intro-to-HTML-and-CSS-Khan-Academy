@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Lief Erikson Day Holiday Card</title>
+               <style>
+           body 
+           {
+            background-color: rgb(222, 197, 98);
+            color: rgb(135, 12, 135);
+            }
+        </style>
+    </head>
+    <body>
+
+        <h1>Happy Leif Erikson Day</h1>
+        <img src = "https://www.kasandbox.org/programming-images/avatars/primosaur-ultimate.png" width ="455" height = "150">
+        
+        <p> Hinga <br> Hinga <br> Dergen</p>
+       
+      <img src = "https://www.kasandbox.org/programming-images/avatars/purple-pi-pink.png">
+        
+    </body>
+</html>
